@@ -1,6 +1,6 @@
 # Hi there, I'm Nagi Yasser Ahmed 👋
 
-## 🚀 Software Engineer | Full-Stack Developer
+## 🚀 Software Engineer
 
 I'm a passionate Software Engineer with a solid background in developing scalable web applications. I specialize in building high-performance backend systems and responsive frontends that deliver exceptional user experiences.
 
@@ -42,7 +42,7 @@ Contributing to enterprise-level systems using ASP.NET Core, optimizing database
 
 ## 🌟 Featured Projects
 
-### 🛍️ [Hub - E-Commerce Platform]
+### 🛍️ [Ovelle - E-Commerce Platform]
 A comprehensive full-stack e-commerce application featuring:
 - Secure authentication with Google OAuth integration
 - Stripe payment processing
