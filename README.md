@@ -58,6 +58,11 @@ _2020 - 2024 | Ismailia, Egypt_
 
 Feel free to reach out for collaborations, opportunities, or just a tech chat!
 
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/nagiyasserahmed)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/nagiyasserahmed)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/nagiyasserahmed)
+[![Phone](https://img.shields.io/badge/Phone-1090312546-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](tel:+201090312546)
+
 ---
 
 <div align="center">
